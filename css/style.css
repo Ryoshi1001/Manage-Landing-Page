@@ -1243,7 +1243,7 @@ body {
   background-color: rgb(242, 145, 120);
 }
 
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 374px) {
   .mobileInput {
     display: block !important;
     margin: 0px auto !important;
