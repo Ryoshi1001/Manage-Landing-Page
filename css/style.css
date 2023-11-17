@@ -1243,6 +1243,22 @@ body {
   background-color: rgb(242, 145, 120);
 }
 
+@media only screen and (max-width: 350px) {
+  .mobileInput {
+    display: block !important;
+    margin: 0px auto !important;
+    text-align: center !important;
+    width: 100% !important;
+    margin-bottom: 18px !important;
+  }
+
+  .mobileBtn {
+    display: block !important;
+    margin: 0px auto !important;
+    text-align: center !important;
+  }
+}
+
 @media (min-width: 768px) {
   .md\:-ml-10 {
     margin-left: -2.5rem;
