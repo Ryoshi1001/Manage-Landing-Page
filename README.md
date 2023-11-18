@@ -2,8 +2,7 @@ Intermediate level project from Frontend Mentor Website
 
 ![](images/webpagemade.png)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://ryoshi1001.github.io/Manage-Landing-Page/))
 
 Built with:
 - Semantic HTML5 markup
@@ -35,7 +34,3 @@ Vary Light Gray: hsl(0, 0%, 98%)
 ## Typography
 - Family: [Be Vietnam Pro](https://fonts.google.com/specimen/Be+Vietnam+Pro)
 - Weights: 400, 500, 700# Manage-Landing-Page
-# Manage-Landing-Page
-# Manage-Landing-Page
-# Manage-Landing-Page
-# Manage-Landing-Page
