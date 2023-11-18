@@ -2,7 +2,7 @@ Intermediate level project from Frontend Mentor Website
 
 ![](images/webpagemade.png)
 
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://ryoshi1001.github.io/Manage-Landing-Page/))
+- Live Site URL: https://your-live-site-url.com](https://ryoshi1001.github.io/Manage-Landing-Page/
 
 Built with:
 - Semantic HTML5 markup
