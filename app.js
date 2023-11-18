@@ -71,7 +71,7 @@ closeBtn.addEventListener('click', () => {
   document.body.style.backgroundColor = '#ffffff';
 });
 
-// Email Validation && Error message
+// Email Validation function
 function emailValidation(email) {
   return /\S+@\S+.\S+/.test(email);
 }
